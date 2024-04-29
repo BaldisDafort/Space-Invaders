@@ -1,0 +1,12 @@
+.cellule {
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    background-image: 'Fond_galaxie.jpg';
+}
+
+table {
+    background-color: transparent;
+}
